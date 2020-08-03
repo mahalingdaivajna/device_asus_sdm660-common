@@ -18,7 +18,7 @@
 set -e
 
 DEVICE_COMMON=sdm660-common
-VENDOR=xiaomi
+VENDOR=asus
 
 INITIAL_COPYRIGHT_YEAR=2018
 
